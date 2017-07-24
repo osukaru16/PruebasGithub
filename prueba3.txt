@@ -1,4 +1,9 @@
 maiu world
 
 con
-git push master
+git push master //no funciona
+
+git push origin master
+
+
+
